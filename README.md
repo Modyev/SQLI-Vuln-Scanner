@@ -27,9 +27,9 @@ A simple and effective vulnerability testing tool built in C#. This tool scans U
 ---
 
 ## **Example Output Images**  
-**On Vulnerable URL: **
+**On Vulnerable URL:**
 
 ![SQLI VULN website output](https://github.com/user-attachments/assets/14d3de28-d948-4f4d-a5d9-969128cc24f5)
 
-**On Safe URL: **
+**On Safe URL:**
 ![SQLI Safe Website Output](https://github.com/user-attachments/assets/f7c24536-b8d3-4b7b-a8cb-287a0117e90a)
