@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLI Vuln Tester", "SQLI Vuln Tester\SQLI Vuln Tester.csproj", "{96D1FA00-E6B6-4CC4-9F5C-F43E84B31C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D1FA00-E6B6-4CC4-9F5C-F43E84B31C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D1FA00-E6B6-4CC4-9F5C-F43E84B31C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D1FA00-E6B6-4CC4-9F5C-F43E84B31C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D1FA00-E6B6-4CC4-9F5C-F43E84B31C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A5ECE9-85A0-40C6-B5D8-C0BFD50D8C06}
+	EndGlobalSection
+EndGlobal
