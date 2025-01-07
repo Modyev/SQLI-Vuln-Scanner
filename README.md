@@ -4,8 +4,8 @@ A simple and effective vulnerability testing tool built in C#. This tool scans U
 
 ---
 
-## **Features**  
-- Accepts user-inputted URLs for testing.  
+# **Features**  
+- Accepts user inputted URLs for testing.  
 - Automatically detects and extracts query parameters from the URL.  
 - Replaces parameter values with predefined payloads to test for vulnerabilities like:  
   - SQL Injection  
@@ -14,7 +14,7 @@ A simple and effective vulnerability testing tool built in C#. This tool scans U
 
 ---
 
-## **Usage**  
+# **Usage**  
 
 1. Launch the application.  
 2. Enter the target URL (e.g., `http://example.com/page?param=value`).  
@@ -26,7 +26,7 @@ A simple and effective vulnerability testing tool built in C#. This tool scans U
 
 ---
 
-## **Example Output**  
+## **Example Output Images**  
 **On Vulnerable URL**
 
 ![SQLI VULN website output](https://github.com/user-attachments/assets/14d3de28-d948-4f4d-a5d9-969128cc24f5)
